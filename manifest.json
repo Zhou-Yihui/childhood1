@@ -1,0 +1,21 @@
+{
+  "name": "童心 AI",
+  "short_name": "童心",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#ff69b4",
+  "description": "完全自由的可爱 AI，前端 PWA，无后端。",
+  "icons": [
+    {
+      "src": "/1763195248351.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/1763195248351.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
